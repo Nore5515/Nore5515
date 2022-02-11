@@ -1,5 +1,7 @@
 ### Hi there! 👋
 
+Not a lot to see here currently.
+
 <!--
 **Nore5515/Nore5515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
