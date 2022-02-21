@@ -1,6 +1,8 @@
 ### Hi there! 👋
 
-Not a lot to see here currently.
+I'm interested in game design and neural networks, and tend to work in Golang, JS and React. 
+
+Let me know about any upcoming game jams!
 
 <!--
 **Nore5515/Nore5515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
