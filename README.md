@@ -1,8 +1,8 @@
 ### Hi there! 👋
 
-I'm interested in game design and neural networks, and tend to work in Golang, JS and React. 
+I'm a software engineer interested in game design and neural networks, and tend to work in Golang, JS and React. 
 
-Let me know if you need a programmer for a game jam!
+Let me know if you need a programmer for a hackathon/game jam!
 
 <!--
 **Nore5515/Nore5515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
