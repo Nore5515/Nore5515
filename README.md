@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm a software engineer interested in game design and neural networks, and tend to work in Golang, JS and React. 
+I'm a software engineer interested in backend design, cybersecurity and game design. 
 
 Let me know if you need a programmer for a hackathon/game jam!
 
