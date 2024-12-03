@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm a software engineer interested in backend design, cybersecurity and game design. 
+I'm a software engineer interested in backend infrastructure, cybersecurity and game design. 
 
 <!--
 **Nore5515/Nore5515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
